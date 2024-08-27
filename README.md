@@ -4,6 +4,9 @@
 
 <ul>
   <li>
+    <strong><a href="https://github.com/ValeraDanilov/job4j_url_shortcut">"Url Shortcut"</a></strong> Spring Boot (Web, Security, JPA, Validation), PostgreSQL, Liquibase, JWT, H2, Lombok, JUnit 5, Mockito, Maven (Surefire, Jacoco)
+  </li>
+  <li>
     <strong><a href="https://github.com/ValeraDanilov/job4j_todo">"Todo List"</a></strong> PostgreSQL, Hibernate, Liquibase, Maven, Spring boot, HTML, CSS, Bootstrap, Thymeleaf, JavaScript
   </li>
   <li>
